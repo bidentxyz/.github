@@ -5,7 +5,7 @@
   </picture>
   <br />
   
-### Bident Security
+### Bident
   
 Building & Breaking Ethereum in Rust
   
