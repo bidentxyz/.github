@@ -1,6 +1,6 @@
 Bident specializes in offensive research and engineering high-performance Rust tooling for Ethereum security.
 
-We build in public. Explore our latest projects:
+We build and maintain high-quality open source Rust libraries. Explore our latest projects:
 
 <table>
   <tr>
@@ -16,7 +16,7 @@ We build in public. Explore our latest projects:
     </td>
     <td width="85%">
       <h3>jsonrpce</h3>
-      JSON-RPC 2.0 server implementation for Rust. Built for performance and ergonomics.
+      JSON-RPC 2.0 for Rust. Our base library for building custom tooling such as LSP/MCP.
       <br><br>
       <a href="https://github.com/bidentsec/jsonrpce">View Repository</a> • 
       <a href="https://docs.rs/jsonrpce">API Reference</a>
